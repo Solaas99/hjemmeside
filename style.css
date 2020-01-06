@@ -1,0 +1,41 @@
+body {
+  font-family: sans-serif;
+  background-color: #1873
+}
+
+h1 {
+  text-align: center;
+  font-size: 35px;
+  margin-top: 40px;
+  color: black
+
+}
+
+p {
+  text-align: center;
+  color: black
+}
+
+.sitat {
+  font-weight: bold;
+  font-style: italic;
+  font-size: 25px;
+  margin-top: 40px;
+}
+
+.forfatter {
+  font-style: italic;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.bilde {
+width: 200px;
+border-radius: 50%;
+border-color: black;
+border-width: 4px;
+border-style: solid;
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
